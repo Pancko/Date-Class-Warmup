@@ -1,0 +1,2 @@
+C:\Users\djalt\source\repos\University\01_Date\x64\Debug\01_Date.exe
+H:\01_Date\x64\Debug\01_Date.exe
